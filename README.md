@@ -13,3 +13,8 @@ It detects and identifies faces from a webcam feed using known images.
 ⚠️ The face dataset is not included in this repo due to size limit
 
 https://drive.google.com/drive/u/0/folders/1U3on0sFdQRxDbjQrSvER0FtTKguhX6ry
+
+✨ Acknowledgements
+
+- https://github.com/ageitgey/face_recognition by @ageitgey
+- OpenCV
