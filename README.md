@@ -10,6 +10,6 @@ It detects and identifies faces from a webcam feed using known images.
 - Name labels over recognized faces
 - Easy to extend with new people and datasets
 
-⚠️ The face dataset is not included in this repo due to size lim
+⚠️ The face dataset is not included in this repo due to size limit
 
 https://drive.google.com/drive/u/0/folders/1U3on0sFdQRxDbjQrSvER0FtTKguhX6ry
