@@ -46,7 +46,7 @@ class SimpleFacerec:
                     self.known_face_names.append(person_name.replace("_", " ").title())
                     print(f"  ✓ {img_file}")
                 else:
-                    print(f"  ⚠️ No face in {img_file}")
+                    print(f"  No face in {img_file}")
 
             if person_encodings:
                 np.save(cache_file, np.array(person_encodings))
@@ -74,7 +74,6 @@ class SimpleFacerec:
 
             face_names.append(name)
 
-            # Rescale back to original frame size
             top, right, bottom, left = face_location
             face_locations_rescaled.append((top * 4, right * 4, bottom * 4, left * 4))
 
