@@ -7,7 +7,7 @@ from simple_facerec import SimpleFacerec
 sfr = SimpleFacerec()
 sfr.load_encoding_images("dataset/", use_cache=True)
 
-# Load camera
+
 cap = cv2.VideoCapture(0)
 
 print("[INFO] Starting camera... Press ESC to quit.")
@@ -28,7 +28,7 @@ while True:
     cv2.imshow("Face Recognition", frame)
 
     key = cv2.waitKey(1)
-    if key == 27:  # ESC key
+    if key == 27: 
         break
 
 cap.release()
