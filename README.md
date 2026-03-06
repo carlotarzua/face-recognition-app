@@ -25,7 +25,6 @@ A Python-based computer vision application that **detects and identifies known i
 
 ![App Demo](https://your-demo-gif-or-screenshot-here.gif)
 
-> 💡 *Replace with a real screenshot or screen recording for maximum recruiter impact.*
 
 ---
 
@@ -154,11 +153,11 @@ python recognize_faces.py --video 0
 
 ## 👩‍💻 About Me
 
-Built by **Carlota Rzua** — a developer passionate about computer vision and applied machine learning.
+Built by **Carlota Arzúa** — a developer passionate about computer vision and applied machine learning.
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Portfolio](https://your-portfolio.com)
-- 📧 your@email.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlota-a-53a75b206/)
+- 🌐 [Portfolio]()
+- 📧 carlotaarzua@email.com
 
 ---
 
