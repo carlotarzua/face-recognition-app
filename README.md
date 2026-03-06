@@ -157,7 +157,7 @@ Built by **Carlota Arzúa** — a developer passionate about computer vision and
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlota-a-53a75b206/)
 - 🌐 [Portfolio]()
-- 📧 carlotaarzua@email.com
+- 📧 carlotaarzua@gmail.com
 
 ---
 
